@@ -12,17 +12,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 💻 **.NET Full Stack Developer** with ~2 years of experience building enterprise web applications using **C#, ASP.NET Core, Angular, and SQL Server**.
-- 🔧 I build secure **REST APIs** with Entity Framework Core, responsive **Angular** front-ends, and optimized **T-SQL** queries.
-- 🤖 Passionate about **AI integration** — I've built LLM- and OCR-powered tools (see TextGenie & AI Document Intelligence below).
-- 🌱 Currently deepening my skills in **system design, cloud (Azure), and AI-powered applications**.
-- 📫 Reach me at **shahankita490@gmail.com**
+-  **.NET Full Stack Developer** with ~2 years of experience building enterprise web applications using **C#, ASP.NET Core, Angular, and SQL Server**.
+-  I build secure **REST APIs** with Entity Framework Core, responsive **Angular** front-ends, and optimized **T-SQL** queries.
+-  Passionate about **AI integration** — I've built LLM- and OCR-powered tools (see TextGenie & AI Document Intelligence below).
+-  Currently deepening my skills in **system design, cloud (Azure), and AI-powered applications**.
+-  Reach me at **shahankita490@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -56,17 +56,17 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 **AI Document Intelligence** | OCR + LLM pipeline that extracts structured data from unstructured documents | Python, OCR, LLM, Prompt Engineering |
-| ✨ **TextGenie** | Chrome extension for AI summarization, translation & chat in 12+ languages | JavaScript, GROQ API, LLaMA 3.1 |
-| 💼 **.NET Full Stack** | Enterprise full-stack work with ASP.NET Core & Angular | C#, ASP.NET Core, Angular, SQL Server |
+|  **AI Document Intelligence** | OCR + LLM pipeline that extracts structured data from unstructured documents | Python, OCR, LLM, Prompt Engineering |
+|  **TextGenie** | Chrome extension for AI summarization, translation & chat in 12+ languages | JavaScript, GROQ API, LLaMA 3.1 |
+|  **.NET Full Stack** | Enterprise full-stack work with ASP.NET Core & Angular | C#, ASP.NET Core, Angular, SQL Server |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAH-ANKITA&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankita's GitHub stats" height="165"/>
